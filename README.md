@@ -1,5 +1,3 @@
-Sure! Here's your README with attractive emojis and symbols added, ready to paste into **readme.so** for a nice visual touch:
-
 ---
 
 # 🤖✨ Dual AI Chatbot
@@ -62,5 +60,3 @@ npm run dev
 * 🌍 Multilingual AI support
 
 ---
-
-
